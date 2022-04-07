@@ -1,5 +1,4 @@
 ## 👋 Hi I'm Billy
----
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture.\
