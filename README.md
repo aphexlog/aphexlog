@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 I can be reached at aphexlog@gmail.com
 
-[![Aphexlog's GitHub stats](https://github-readme-stats.vercel.app/api?username=aphexlog)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphexlog&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Aphexlog's GitHub stats](https://github-readme-stats.vercel.app/api?username=aphexlog&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
