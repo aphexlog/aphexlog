@@ -6,7 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphexlog&theme=tokyonight)]
 
-### ⭐ GitHub Stats
 [![Aphexlog's GitHub stats](https://github-readme-stats.vercel.app/api?username=aphexlog&show_icons=true&theme=tokyonight)]
 
 
