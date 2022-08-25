@@ -1,10 +1,3 @@
-## 👋 Hi I'm Billy
-### :space_invader: &nbsp;About Me
-
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and designing automation routines.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.
-
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
