@@ -4,6 +4,6 @@ I'm always working on something, so feel free to reach out and see what I'm up t
 
 <div style="padding: 25px 0;">
      <a href="https://www.linkedin.com/in/westwaaron/" style="padding: 8px; width: 24px; height: 24px;">
-        <img src="./assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
+        <img src="./assets/linkedin-green.png" alt="LinkedIn" width="24" height="24" />
     </a>
 </div>
