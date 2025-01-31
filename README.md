@@ -2,7 +2,7 @@
 
 ### 🚀 GitHub Stats & Activity
 
-![aphexlog's github stats](https://github-readme-stats.vercel.app/api?username=aphexlog&count_private=true&show_icons=true&title_color=ffffff&icon_color=ff9800&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=8)
+![aphexlog's github stats](https://github-readme-stats.vercel.app/api?username=aphexlog&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphexlog&layout=compact&theme=github_dark&langs_count=8)
 
 ### 📫 Connect With Me
