@@ -1,5 +1,4 @@
-📩 **Let’s Build Something Cool!**  
-🚀 Open to collaborations, ideas, and tech discussions. Check out my work below!
+🚀 **Let’s Build Something Cool!**  
 
 ### ⚡ GitHub Highlights
 
