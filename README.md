@@ -1,4 +1,17 @@
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aphexlog&theme=tokyonight)
+<table>
+<tr>
+<td>
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aphexlog&theme=tokyonight)
+
+</td>
+<td>
+
+![Commit Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aphexlog&theme=tokyonight)
+
+</td>
+</tr>
+</table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/westwaaron/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aphexlog)
