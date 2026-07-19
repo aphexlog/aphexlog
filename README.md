@@ -1,18 +1,95 @@
-<table>
-<tr>
-<td>
+<div align="center">
 
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aphexlog&theme=tokyonight)
+```
+ █████╗ ██████╗ ██╗  ██╗███████╗██╗  ██╗██╗      ██████╗  ██████╗ 
+██╔══██╗██╔══██╗██║  ██║██╔════╝╚██╗██╔╝██║     ██╔═══██╗██╔════╝ 
+███████║██████╔╝███████║█████╗   ╚███╔╝ ██║     ██║   ██║██║  ███╗
+██╔══██║██╔═══╝ ██╔══██║██╔══╝   ██╔██╗ ██║     ██║   ██║██║   ██║
+██║  ██║██║     ██║  ██║███████╗██╔╝ ██╗███████╗╚██████╔╝╚██████╔╝
+╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ 
+```
 
-</td>
-<td>
+### builder · hacker · elevator robot founder
 
-![Commit Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aphexlog&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/westwaaron/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aphexlog)
+[![Web](https://img.shields.io/badge/elevatorrobot.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://elevatorrobot.com)
 
-</td>
-</tr>
-</table>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/westwaaron/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aphexlog)
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@aphexlog)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=engineer+%C2%B7+architect+%C2%B7+builder;designing+systems+that+scale;based+in+Austin%2C+TX" alt="typing" />
+
+---
+
+## ⚡ about
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   aaron · founder @ elevator robot                           │
+│                                                              │
+│   engineer and architect building cloud systems              │
+│   and software solutions for clients who need                │
+│   things that actually work in production                    │
+│                                                              │
+│   based in austin, tx                                        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🛠 stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,python,go,rust,lua,js,ts,docker,terraform,linux,neovim,git&perline=6" />
+</p>
+
+---
+
+## 📊 stats
+
+|  |  |
+|:--:|:--:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=aphexlog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) | ![Streak](https://streak-stats.demolab.com/?user=aphexlog&theme=tokyonight&hide_border=true) |
+| ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphexlog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8) | ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aphexlog&theme=tokyonight) |
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=aphexlog&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+</p>
+
+---
+
+## 🔥 activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aphexlog&theme=tokyo-night&hide_border=true&area=true)
+
+---
+
+## 🚀 featured
+
+| project | what it does | stack |
+|:--------|:-------------|:------|
+| **[aws-stuff-doer](https://github.com/aphexlog/aws-stuff-doer)** | SSO + multi-account AWS management without the pain | Python |
+| **[gsd](https://github.com/aphexlog/gsd)** | CLI for switching AWS credential contexts fast | Go |
+| **[aws-cdk-billing-alarm](https://github.com/aphexlog/aws-cdk-billing-alarm)** | CDK construct — email alerts when your bill spikes | TypeScript / CDK |
+| **[dotfiles](https://github.com/aphexlog/dotfiles)** | neovim · shell · terminal — the full setup | Lua |
+
+---
+
+## ✍️ writing
+
+I write about cloud, tooling, and building in public on [Medium](https://medium.com/@aphexlog).
+
+---
+
+### 💬 let's build something
+
+open to collabs, weird ideas, and cloud war stories  
+→ **[elevatorrobot.com](https://elevatorrobot.com)** · **[linkedin](https://www.linkedin.com/in/westwaaron/)** · **[medium](https://medium.com/@aphexlog)**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=aphexlog&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="views" />
+
+</div>
