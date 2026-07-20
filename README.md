@@ -52,16 +52,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aphexlog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars" alt="stats" />
-    </td>
-    <td>
       <img src="https://streak-stats.demolab.com/?user=aphexlog&theme=tokyonight&hide_border=true" alt="streak" />
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphexlog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs" />
-    </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aphexlog&theme=tokyonight" alt="repos" />
     </td>
